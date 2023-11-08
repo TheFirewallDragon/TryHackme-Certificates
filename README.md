@@ -18,15 +18,51 @@ Below is a complete list of all certificate I have earned on <a href="https://ww
 All TryHackMe learning paths can be found at the following link: https://tryhackme.com/paths
 
 <h2>Jr Penetration Tester</h2>
-
-
+<p>
+</p>
+Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-05BRTNQ7BA.pdf
 
 <h2>SOC Level 1</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Red Teaming</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Web Fundamentals</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Offensive Pentesting</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>CompTIA Pentest+</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Security Engineering</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Cyber Defense</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Introduction to Cyber Security</h2>
+<p>
+</p>
+Certificate (PDF):
+
 <h2>Pre Security</h2>
+<p>
+</p>
+Certificate (PDF):
