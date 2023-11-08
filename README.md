@@ -62,20 +62,24 @@ Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-P
 
 <h2>Security Engineer</h2>
 <p>
+Embarking on the TryHackMe "Security Engineer" pathway, I began by establishing a robust foundation in security principles, cryptography essentials, and identity management. This educational journey encompassed in-depth exploration of Threats and Risks, Network and System Security, Software Security, and Incident Management, equipping me with invaluable skills essential for the role of a Security Engineer. 
 </p>
 Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-MP0FQKSRAW.pdf
 
 <h2>Cyber Defense</h2>
 <p>
+By completing the "Cyber Defense" course, I have acquired essential skills in the realm of threat detection and response. The course covered fundamental areas, including networking, host-based systems, and active directory, which laid the groundwork for more advanced concepts. I gained insights into threat and vulnerability management, learning how attackers develop techniques to bolster defensive strategies. Additionally, the training encompassed security operations, monitoring, threat emulation, incident response, and malware analysis, equipping me with the knowledge and tools to detect, respond to, and mitigate threats effectively within a corporate environment.
 </p>
 Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-S2H1AZ0UIU.pdf
 
 <h2>Introduction to Cyber Security</h2>
 <p>
+I completed the "Introduction to Cyber Security" TryHackMe path, which provided me with a hands-on introduction to various facets of the cyber realm. This comprehensive path covered essential topics, including insights into careers in cyber security, hands-on experience in offensive security through application hacking, and defensive security, involving defending against live cyber attacks. This is the first cybersecurity training I followed outside of my university program and it not only equipped me with foundational knowledge but also ignited my enthusiasm for the field, making it a perfect starting point.
 </p>
 Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-XLAPJE4YUJ.pdf
 
 <h2>Pre Security</h2>
 <p>
+The "Pre-Security" learning path served as an excellent beginner-friendly introduction to the essentials of cybersecurity. The course started with the foundational concepts of offensive and defensive security, progressing to core knowledge about networking, web functionality, Linux, and Windows systems. My cybersecurity learning adventure began with no prior knowledge requirements, offering a great starting point for anyone with enthusiasm and excitement to learn about the field.
 </p>
 Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-YXHAPSSBIM.pdf
