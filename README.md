@@ -50,11 +50,13 @@ Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-P
 
 <h2>Offensive Pentesting</h2>
 <p>
+The "Offensive Pentesting" pathway has equipped me with essential skills required for real-world penetration testing. This path covers a wide range of information security aspects, including web applications, networks, and low-level technologies like assembly. It provides hands-on experience with industry-standard tools and methodologies to identify vulnerabilities effectively. The skills acquired through this path are valuable not only for job interviews but also for pursuing certifications in the security industry. My journey began with mastering active reconnaissance, vulnerability scanning, privilege escalation, and web application attacks. I advanced to handle public exploits, password cracking, and explored buffer overflow exploitation. The Active Directory section delved into topics like attacking Kerberos and exploiting a Domain Controller. The Extra Credit rooms provided additional challenges to reinforce my skills. As TryHackMe continually updates this pathway, I will revist this ressource.
 </p>
 Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-KBFQUOOKBG.pdf
 
 <h2>CompTIA Pentest+</h2>
 <p>
+Through the "CompTIA Pentest+" pathway, I've acquired a wide range of practical skills essential for the CompTIA PenTest+ exam. This journey has equipped me with the expertise to utilize industry-standard penetration testing tools, uncover vulnerabilities in network services, and exploit common issues found in web applications. Moreover, I've developed a deep understanding of Windows Active Directory, including the art of attacking Kerberos, and sharpened my post-exploitation techniques using tools like Powerview, Bloodhound, and Mimikatz. My journey began with the fundamentals of penetration testing and red team engagements. I then focused on mastering tools like Metasploit, Wireshark, and Burp Suite, while also exploring Python for penetration testing. The pathway covered information gathering, including both passive and active reconnaissance techniques using Nmap. Lastly, I delved into executing a range of attacks and exploits on web applications, MS Windows, MS Active Directory, and Linux systems.
 </p>
 Certificate (PDF): https://github.com/TheFirewallDragon/TryHackMe-Certificates-PDF/blob/main/THM-KXIWYU0XDX.pdf
 
