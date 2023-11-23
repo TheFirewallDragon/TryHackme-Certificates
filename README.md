@@ -8,7 +8,7 @@ Below is a complete list of all certificate I have earned on <a href="https://ww
   <li>SOC Level 1</li>
   <li>Red Teaming</li>
   <li>Web Fundamentals</li>
-  <li>Offensieve Pentesting</li>
+  <li>Offensive Pentesting</li>
   <li>CompTIA Pentest+</li>
   <li>Security Engineer</li>
   <li>Cyber Defense</li>
